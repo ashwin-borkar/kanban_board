@@ -1,0 +1,27 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  event_type: MyString
+  card: one
+  column_from: one
+  column_to: one
+  old_position: 1
+  new_position: 1
+  old_title: MyString
+  new_title: MyString
+  old_description: MyText
+  new_description: MyText
+  timestamp: 2026-05-06 17:27:40
+
+two:
+  event_type: MyString
+  card: two
+  column_from: two
+  column_to: two
+  old_position: 1
+  new_position: 1
+  old_title: MyString
+  new_title: MyString
+  old_description: MyText
+  new_description: MyText
+  timestamp: 2026-05-06 17:27:40
